@@ -1,0 +1,47 @@
+[
+    {
+        "rank": 1,
+        "insurancePolicy": "QmT2d1UuyrSsVJ2rcKacRuBwLq9LAT3rV3wjLpkDC8RKkS",
+        "flightNumber": "MU2881",
+        "date": "2023-06-01",
+        "ticketNumber": "T123456",
+        "status": "Active",
+        "image": "/1.jpg"
+    },
+    {
+        "rank": 2,
+        "insurancePolicy": "QmQ5bxiXypULvqGCrcxxGn67hERkhv6RoW9Vcexh9wMRWK",
+        "flightNumber": "KN6254",
+        "date": "2023-06-02",
+        "ticketNumber": "T654321",
+        "status": "Inactive",
+        "image": "/2.jpg"
+    },
+    {
+        "rank": 3,
+        "insurancePolicy": "QmSXJ4AZBwxW8zLyo6jLQ3kcZyqkxtZV3NPmYnFwvuSUE4",
+        "flightNumber": "KN6254",
+        "date": "2023-06-03",
+        "ticketNumber": "T112233",
+        "status": "Claimed",
+        "image": "/3.jpg"
+    },
+    {
+        "rank": 4,
+        "insurancePolicy": "QmasoVayRhHKQA28R91A1df6BfjpeifqLHKjEUotJrPvFb",
+        "flightNumber": "HO5373",
+        "date": "2023-06-04",
+        "ticketNumber": "T223344",
+        "status": "Unclaimed",
+        "image": "/4.jpg"
+    },
+    {
+        "rank": 5,
+        "insurancePolicy": "Qmbvzm6DTKEh8oiXK9XavfxWzk6G5d2dzpb8igK8ZVbFJ9",
+        "flightNumber": "MU8447",
+        "date": "2023-06-05",
+        "ticketNumber": "T334455",
+        "status": "Active",
+        "image": "/5.jpg"
+    }
+]
